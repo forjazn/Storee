@@ -1,0 +1,6 @@
+framework module Pods_Storee {
+  umbrella header "Pods-Storee-umbrella.h"
+
+  export *
+  module * { export * }
+}
